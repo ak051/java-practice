@@ -1,0 +1,7 @@
+com\ace\exercise\processFile\CreateMTDFile.class
+com\ace\exercise\metadata\FileMetadata.class
+com\ace\exercise\executors\DirectoryScanExecutor.class
+com\ace\exercise\cache\FileCache.class
+com\ace\exercise\processor\DirectoryProcessor.class
+com\ace\exercise\App.class
+com\ace\exercise\executors\FileQueueConsumer.class

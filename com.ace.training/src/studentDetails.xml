@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+  <student>
+	<id>1</id>
+    <name>
+      <lastname>Kumar</lastname>
+      <firstname>Ravi</firstname>
+    </name>
+    <class>10</class>
+      <subject>
+        <name>Maths</name>
+        <marks>90</marks>
+      </subject>
+      <subject>
+        <name>Science</name>
+        <marks>98</marks>
+      </subject>
+  </student>
+</students>
